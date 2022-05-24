@@ -27,6 +27,8 @@ init();
 
 // Functions
 function init() {
+    score = 0;
+    gameScore.innerText = score;
     tempMovingItem = { ... movingItem };
 
     for (let i=0; i<GAME_ROWS; i++) {
