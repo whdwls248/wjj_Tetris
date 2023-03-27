@@ -1,5 +1,5 @@
 # 간단한 테트리스 게임 사이트
-## 배포 페이지 URL : 
+## 배포 페이지 URL : https://wjj-tetris.netlify.app/
 
 ## 주요기능
 * 테트리스 게임 기능
